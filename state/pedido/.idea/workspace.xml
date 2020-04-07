@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f235bf2-af25-420c-82ff-11bbc170f2f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZX9L1DbOXonFFDWX4buIvIg2zD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pedido.estado" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pedido.Teste" />
+      <module name="pedido" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pedido.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Teste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f235bf2-af25-420c-82ff-11bbc170f2f9" name="Default Changelist" comment="" />
+      <created>1584974511204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584974511204</updated>
+      <workItem from="1584974514931" duration="2790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="791" y="260" width="374" height="594" key="#com.intellij.ide.util.MemberChooser" timestamp="1584981097321">
+      <screen x="46" y="27" width="1874" height="1053" />
+    </state>
+    <state x="791" y="260" width="374" height="594" key="#com.intellij.ide.util.MemberChooser/46.27.1874.1053/1920.0.1600.900@46.27.1874.1053" timestamp="1584981097321" />
+    <state x="715" y="334" width="524" height="451" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1584975122064">
+      <screen x="46" y="27" width="1874" height="1053" />
+    </state>
+    <state x="715" y="334" width="524" height="451" key="#com.intellij.ide.util.PackageChooserDialog/46.27.1874.1053/1920.0.1600.900@46.27.1874.1053" timestamp="1584975122064" />
+    <state width="1828" height="252" key="GridCell.Tab.0.bottom" timestamp="1584981539150">
+      <screen x="46" y="27" width="1874" height="1053" />
+    </state>
+    <state width="1828" height="252" key="GridCell.Tab.0.bottom/46.27.1874.1053/1920.0.1600.900@46.27.1874.1053" timestamp="1584981539150" />
+    <state width="1828" height="252" key="GridCell.Tab.0.center" timestamp="1584981539150">
+      <screen x="46" y="27" width="1874" height="1053" />
+    </state>
+    <state width="1828" height="252" key="GridCell.Tab.0.center/46.27.1874.1053/1920.0.1600.900@46.27.1874.1053" timestamp="1584981539150" />
+    <state width="1828" height="252" key="GridCell.Tab.0.left" timestamp="1584981539150">
+      <screen x="46" y="27" width="1874" height="1053" />
+    </state>
+    <state width="1828" height="252" key="GridCell.Tab.0.left/46.27.1874.1053/1920.0.1600.900@46.27.1874.1053" timestamp="1584981539150" />
+    <state width="1828" height="252" key="GridCell.Tab.0.right" timestamp="1584981539150">
+      <screen x="46" y="27" width="1874" height="1053" />
+    </state>
+    <state width="1828" height="252" key="GridCell.Tab.0.right/46.27.1874.1053/1920.0.1600.900@46.27.1874.1053" timestamp="1584981539150" />
+    <state x="292" y="133" width="1372" height="848" key="new project wizard" timestamp="1584981537605">
+      <screen x="46" y="27" width="1874" height="1053" />
+    </state>
+    <state x="292" y="133" width="1372" height="848" key="new project wizard/46.27.1874.1053/1920.0.1600.900@46.27.1874.1053" timestamp="1584981537605" />
+  </component>
+</project>
